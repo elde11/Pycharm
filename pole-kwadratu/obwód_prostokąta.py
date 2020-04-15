@@ -1,0 +1,5 @@
+a = input("Podaj długość pierwszego boku prostokąta")
+a = float(a)
+b = input("Podaj długość drugiego boku prostokąta")
+b = float(b)
+print("Obwód prostokąta =", 2*a+2*b)

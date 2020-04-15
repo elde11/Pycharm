@@ -1,0 +1,12 @@
+a = input("Podaj pierwszą liczbę")
+a = float(a)
+b = input("Podaj drugą liczbę")
+b = float(b)
+c = input("Podaj trzecią liczbę")
+c = float(c)
+d = input("Podaj czwartą liczbę")
+d = float(d)
+e = input("Podaj piątą liczbę")
+e = float(e)
+
+print("Średnia arytmetyczna liczb to =", 1/5*(a+b+c+d+e))
